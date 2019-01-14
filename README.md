@@ -8,3 +8,5 @@ Image for building and deploying containers with forge.sh in CI environments.
 - aws-cli
 - kubectl
 - docker
+- gcloud
+
